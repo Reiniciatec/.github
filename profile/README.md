@@ -17,14 +17,6 @@ Cada repositorio contiene materiales didácticos, ejemplos de código y proyecto
 
 En esta sección, encontrarás todo lo necesario para llevar tus proyectos con **mBot 2** al siguiente nivel. Hemos reunido una colección completa de recursos que te ayudarán a aprender, practicar y perfeccionar tus habilidades en robótica y programación. 🌟
 
-### 📂 Recursos Disponibles
-
-- **Guías de Usuario**: [Descargar Guías de Usuario](#) - En desarrollo
-- **Tutoriales en Video**: [Ver Tutoriales](#) - En desarrollo
-- **Ejemplos de Código**: [Explorar Ejemplos de Código](#) - En desarrollo
-- **Proyectos Avanzados**: [Descargar Proyectos Avanzados](#) - En desarrollo
-- **Foros de Ayuda y Discusión**: [Unirse a los Foros](#) - En desarrollo
-
 ### 🔧 Snippets de Código
 
 En esta sección, encontrarás archivos enfocados a resolver problemas específicos, mostrando cómo se resuelven paso a paso. Estos snippets de código están diseñados para ayudarte a entender y aplicar soluciones prácticas en tus proyectos. 🚀💻
@@ -33,6 +25,16 @@ En esta sección, encontrarás archivos enfocados a resolver problemas específi
 - **Soluciones a Problemas Comunes**: [Explorar Soluciones](#) - En desarrollo
 - **Ejemplos de Programación Avanzada**: [Ver Ejemplos Avanzados](#) - En desarrollo
  
+
+### 📂 Recursos Disponibles
+
+- **Guías de Usuario**: [Descargar Guías de Usuario](#) - En desarrollo
+- **Tutoriales en Video**: [Ver Tutoriales](#) - En desarrollo
+- **Ejemplos de Código**: [Explorar Ejemplos de Código](#) - En desarrollo
+- **Proyectos Avanzados**: [Descargar Proyectos Avanzados](#) - En desarrollo
+- **Foros de Ayuda y Discusión**: [Unirse a los Foros](#) - En desarrollo
+
+
 ### 📘 Documentación Técnica
 
 - **Documentación del mBot 2**: [Leer Documentación](#) - En desarrollo
