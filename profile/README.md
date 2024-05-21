@@ -21,28 +21,22 @@ En esta sección, encontrarás todo lo necesario para llevar tus proyectos con *
 
 En esta sección, encontrarás archivos enfocados a resolver problemas específicos, mostrando cómo se resuelven paso a paso. Estos snippets de código están diseñados para ayudarte a entender y aplicar soluciones prácticas en tus proyectos. 🚀💻
 
-- **Snippets de Inicio**: [Ver Snippets de Inicio](https://github.com/Reiniciatec/CR2-Code-Snippets)
+- **Repositorio oficial de snippets**: [Ver Snippets](https://github.com/Reiniciatec/CR2-Code-Snippets)
 - **Soluciones a Problemas Comunes**: [Explorar Soluciones](#) - En desarrollo
-- **Ejemplos de Programación Avanzada**: [Ver Ejemplos Avanzados](#) - En desarrollo
- 
+- **API de Ciberpy**: [Ver Documentacion](https://education.makeblock.com/help/mblock-python-editor-python-api-documentation-for-cyberpi/)
+- **API de los módulos de mBuild**: [Ver Documentacion](https://education.makeblock.com/help/mblock-python-editor-apis-for-mbuild-modules/)
 
 ### 📂 Recursos Disponibles
 
 - **Guías de Usuario**: [Descargar Guías de Usuario](#) - En desarrollo
 - **Tutoriales en Video**: [Ver Tutoriales](#) - En desarrollo
-- **Ejemplos de Código**: [Explorar Ejemplos de Código](#) - En desarrollo
-- **Proyectos Avanzados**: [Descargar Proyectos Avanzados](#) - En desarrollo
 - **Foros de Ayuda y Discusión**: [Unirse a los Foros](#) - En desarrollo
 
-
-### 📘 Documentación Técnica
-
-- **Documentación del mBot 2**: [Leer Documentación](#) - En desarrollo
-- **Manuales de Programación**: [Ver Manuales](#) - En desarrollo
-- **API de Ciberpy**: [Ver Documentacion](https://education.makeblock.com/help/mblock-python-editor-python-api-documentation-for-cyberpi/)
-- **API de los modulos de mBuild**: [Ver Documentacion](https://education.makeblock.com/help/mblock-python-editor-apis-for-mbuild-modules/)
-
 Todo el material está diseñado para ser fácil de seguir, con ejemplos prácticos y explicaciones detalladas. No importa si eres principiante o tienes experiencia, aquí encontrarás recursos que se adaptan a tu nivel y te ayudarán a progresar. 🔍💻
+
+### 🌐 Enlaces Útiles
+
+- **Página oficial del FabLab**: [Visitar FabLab UV](https://fablab.uv.cl)
 
 ¡Prepárense para un viaje increíble de aprendizaje y diversión! Si tienen alguna pregunta o necesitan ayuda, no duden en contactarnos. Estamos aquí para apoyarles en cada paso del camino. 😊
 
