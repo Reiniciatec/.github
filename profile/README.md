@@ -39,7 +39,8 @@ En esta sección, encontrarás archivos enfocados a resolver problemas específi
 
 - **Documentación del mBot 2**: [Leer Documentación](#) - En desarrollo
 - **Manuales de Programación**: [Ver Manuales](#) - En desarrollo
-- **Bibliotecas y APIs**: [Acceder a Bibliotecas y APIs](#) - En desarrollo
+- **API de Ciberpy**: [Acceder a Bibliotecas y APIs](https://education.makeblock.com/help/mblock-python-editor-python-api-documentation-for-cyberpi/)
+- **API de los modulos de mBuild**: [Acceder a Bibliotecas y APIs](https://education.makeblock.com/help/mblock-python-editor-python-api-documentation-for-cyberpi/)
 
 Todo el material está diseñado para ser fácil de seguir, con ejemplos prácticos y explicaciones detalladas. No importa si eres principiante o tienes experiencia, aquí encontrarás recursos que se adaptan a tu nivel y te ayudarán a progresar. 🔍💻
 
