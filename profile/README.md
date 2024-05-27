@@ -4,6 +4,8 @@
 
 Bienvenidos al emocionante mundo del **mBot 2**, donde la creatividad se encuentra con la tecnología para dar vida a increíbles proyectos robóticos. Nos complace tenerlos aquí y estamos ansiosos por acompañarlos en esta fascinante aventura de aprendizaje y descubrimiento. Con el **mBot 2**, no solo aprenderán los fundamentos de la programación, sino que también desarrollarán habilidades en electrónica y mecánica, aplicando conceptos teóricos en proyectos prácticos y divertidos. 🚀
 
+- **Correo electrónico**: [cr2@uv.cl](cr2@uv.cl)
+
 ## 📚 Repositorios de Cursos por Año
 
 A continuación, encontrarán los enlaces a los repositorios de los cursos de cada año:
